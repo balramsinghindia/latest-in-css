@@ -31,3 +31,4 @@
 
 # SCSS questions:
 - map-get
+- Inheritance
