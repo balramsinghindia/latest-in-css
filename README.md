@@ -23,4 +23,11 @@
 - FlexBox
 - GridBox
 - :root and variables in css
--  
+- inline vs inline-block vs block
+- colspan
+- cellspacing vs cellpadding
+- z-index
+
+
+SCSS questions:
+- map-get
