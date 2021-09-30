@@ -12,6 +12,7 @@
 - Neat Design Pattern in CSS?
 - Why is container units so handy in CSS?
 - Clamp in CSS (font-size: clamp(1rem, 2.5vw, 2rem); (min, recommended, max)
+- What is Tailwind CSS?
 
 # CSS General questions
 - Box model
