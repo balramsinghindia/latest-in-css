@@ -28,6 +28,7 @@
 - colspan
 - cellspacing vs cellpadding
 - z-index
+- How to get props in CSS
 
 
 # SCSS questions:
