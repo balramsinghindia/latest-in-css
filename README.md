@@ -13,6 +13,29 @@
 - Why is container units so handy in CSS?
 - Clamp in CSS (font-size: clamp(1rem, 2.5vw, 2rem); (min, recommended, max)
 - What is Tailwind CSS?
+- margin-block-start, padding-inline-end, etc.
+- CSS writing modes
+- CSS Multi Column
+- Subgrid - Nesting deeper-level subgrids into a parent grid.
+- aspect-ratio
+- CSS Shapes
+- backdrop-filter
+- perspective CSS property
+- Intrinsic Sizing - min-content, max-content, fit-content
+- Conic Gradient
+- currentColor keyword
+- accent-color for checkbox and radio button
+- scrolljacking in CSS - Its caused by CSS Scroll Snapping
+- pointer-events 
+- Variable Fonts
+
+Accessibility
+- prefers-reduced-motion
+- prefers-color-scheme
+
+Performance
+- CSS Containment
+- will-change
 
 # CSS General questions
 - Box model
