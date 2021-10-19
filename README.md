@@ -57,3 +57,26 @@ Performance
 # SCSS questions:
 - map-get
 - Inheritance
+
+
+
+#Keeping up in CSS
+
+I rely a lot on a few folks to surface what's going new and upcoming as well as early demos and explainers. In particular, the following individuals come to mind to follow on Twitter:
+
+​Miriam Suzanne​
+​Jen Simmons​
+​Bramus​
+​Adam Argyle​
+​Una Kravets​
+​Ahmad Shadeed​
+​Michelle Barker​
+I also subscribe to several newsletters, with the following being my favorites for CSS news:
+
+​Frontend Focus​
+​CSS Layout News​
+​The CodePen Spark​
+​Smashing Magazine Newsletter​
+​CSS-Tricks Newsletter​
+​CSS Weekly​
+What's missing from my list of folks or sources to follow? I've grown my network a lot this past year but I'm sure I'm missing some amazing content! let me know!
