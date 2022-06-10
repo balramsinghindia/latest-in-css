@@ -1,5 +1,6 @@
 # Latest in CSS
-- This Repo includes latest learnings of CSS
+### This Repo includes latest learnings of CSS
+- Build date picker, chat (align to bottom), swipeable full-screen stories and gesture UIs (like buttons with swipe interactions) with scroll snap CSS. Carousel like behavior with CSS. No JS
 - What is CSS nesting, Can we use it in production projects?
 - What is is() selector?
 - What are The Houdini APIs?
