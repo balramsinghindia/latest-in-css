@@ -31,7 +31,30 @@ https://www.amitmerchant.com/implementing-scroll-snap-using-only-three-lines-of-
 - scrolljacking in CSS - Its caused by CSS Scroll Snapping
 - pointer-events 
 - Variable Fonts
-- Usecase of Grid over Flex and vice-versa.
+- Usecase of Grid over Flex and vice-versa. 
+![CSSGridFlex](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/FU4T9-zWAAEQ-kx.jpeg)
+
+
+
+
+Game-changing CSS features:
+
+- flexbox
+- grid
+- custom properties
+- multi-column
+- aspect-ratio
+- min()/max()/clamp()
+- viewport units 
+- logical properties
+- writing modes
+
+Soon:
+
+- container queries
+- subgrid
+- :has()
+
 
 Accessibility
 - prefers-reduced-motion
