@@ -35,7 +35,8 @@ https://www.amitmerchant.com/implementing-scroll-snap-using-only-three-lines-of-
 ![CSSGridFlex](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/FU4T9-zWAAEQ-kx.jpeg)
 - Sub grid 
 ![Subgrid](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/sa.jpeg)
-
+- 2021 Focus area
+![2021](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/large-23.jpeg)
 
 
 Game-changing CSS features:
