@@ -34,7 +34,7 @@ https://www.amitmerchant.com/implementing-scroll-snap-using-only-three-lines-of-
 - Usecase of Grid over Flex and vice-versa. 
 ![CSSGridFlex](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/FU4T9-zWAAEQ-kx.jpeg)
 - Sub grid 
-![Subgrid](https://twitter.com/JashaJ/status/1535194424245899264/photo/1)
+![Subgrid](https://raw.githubusercontent.com/balramsinghindia/tempfiles/main/sa.jpeg)
 
 
 
