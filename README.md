@@ -108,5 +108,7 @@ I also subscribe to several newsletters, with the following being my favorites f
 
 Blogs to follow:
 - https://css-irl.info/
+- https://www.smashingmagazine.com/
+- https://tympanus.net/codrops/
 
 What's missing from my list of folks or sources to follow? I've grown my network a lot this past year but I'm sure I'm missing some amazing content! let me know!
