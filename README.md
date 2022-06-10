@@ -1,6 +1,8 @@
 # Latest in CSS
 ### This Repo includes latest learnings of CSS
-- Build date picker, chat (align to bottom), swipeable full-screen stories and gesture UIs (like buttons with swipe interactions) with scroll snap CSS. Carousel like behavior with CSS. No JS
+- Build date picker, chat (align to bottom), swipeable full-screen stories and gesture UIs (like buttons with swipe interactions) with scroll snap CSS. Carousel like behavior with CSS. No JS 
+https://oh-snap.netlify.app/#intro
+https://www.amitmerchant.com/implementing-scroll-snap-using-only-three-lines-of-css/
 - What is CSS nesting, Can we use it in production projects?
 - What is is() selector?
 - What are The Houdini APIs?
@@ -29,6 +31,7 @@
 - scrolljacking in CSS - Its caused by CSS Scroll Snapping
 - pointer-events 
 - Variable Fonts
+- Usecase of Grid over Flex and vice-versa.
 
 Accessibility
 - prefers-reduced-motion
