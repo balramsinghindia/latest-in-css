@@ -51,7 +51,7 @@ Game-changing CSS features:
 - logical properties
 - writing modes
 
-Soon:
+These are also live now:
 
 - container queries
 - subgrid
